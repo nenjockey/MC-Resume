@@ -1,0 +1,116 @@
+---
+basics:
+  name: Maher Chaabani
+  label: Computer Analyst
+  email: chaabani.meher@gmail.com
+  phone: "(216) 54-010-727"
+  url: http://#
+  summary: "Skilled help desk technician with over 5 years of experience providing PC, Mac, and mobile device support for customers in a large enterprise environment. 
+  Works well independently, and in a group setting providing all facets of help desk support such as troubleshooting, installations, and maintenance. 
+  Knowledgeable in help desk operations by responding to service requests via telephone, e-mail, or in person."
+  location:
+    address: 1 El-razi St
+    postalCode: TN 1110
+    city: Mornaguia
+    countryCode: TN
+    region: Mannouba
+  profiles:
+  - network: Facebook
+    username: mahernenjo
+    url: https://#
+  - network: Deezer
+    username: nenjockey
+    url: https://#
+work:
+- name: COMAR Insurances 
+  location: Tunis, TN
+  description: Best reliable insurances company
+  position: Digital Project Manager
+  url: http://comar.tn
+  startDate: '2014-05-01'
+  endDate: '2020-05-01'
+  summary: Pied Piper is a multi-platform technology based on a proprietary universal
+    compression algorithm that has consistently fielded high Weisman Scores™ that
+    are not merely competitive, but approach the theoretical limit of lossless compression.
+  highlights:
+  - Build an algorithm for rejection of treatment of input data in Oracle App
+  - Optimized process and workflows 
+volunteer:
+- organization: Red Cross
+  position: Teacher
+  url: https://www.icrc.org/
+  startDate: '2015-01-01'
+  endDate: '2018-01-01'
+  summary: Global movement for promoting humanitarian principles and values.
+  highlights:
+  - Awarded 'instructor of the Year'
+education:
+- institution: Institut Supérieur de l'informatique
+  area: Ariana
+  studyType: Master
+  startDate: '2019-09-01'
+  endDate: '2020-09-01'
+  gpa: '4.0'
+  courses:
+  - BD - Big Data 
+  - CC - Cloud Computiong
+skills:
+- name: Web Development
+  level: Master
+  keywords:
+  - HTML
+  - CSS
+  - Javascript
+  - Bootsrap
+  - Yaml
+- name: Audio Production
+  level: Master
+  keywords:
+  - Ableton
+  - MPC 
+  - Natives Instruments DAW
+languages:
+- language: Arabic
+  fluency: Native speaker
+- language: French
+  fluency: Advanced
+- language: English
+  fluency: Intermediate
+interests:
+- name: Music
+  keywords:
+  - Fests
+  - Audio Engineering
+- name: NeoTech
+  keywords:
+  - Neuro-Science
+  - Audio-Processing
+references:
+- name: Anis Akkari
+  reference: It is my pleasure to recommend Maher, his performance working as a
+    consultant for COMAR. Company proved that he will be a valuable addition to
+    any company.
+projects:
+- name: Miss Direction
+  description: A mapping engine that misguides you
+  highlights:
+  - Won award at AIHacks 2016
+  - Built by all women team of newbie programmers
+  - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+  keywords:
+  - GoogleMaps
+  - Chrome Extension
+  - Javascript
+  startDate: '2016-08-24'
+  endDate: '2016-08-24'
+  url: missdirection.example.com
+  roles:
+  - Team lead
+  - Designer
+  entity: Smoogle
+  type: application
+meta:
+  canonical: https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json
+  version: v1.0.0
+  lastModified: '2017-12-24T15:53:00'
+
