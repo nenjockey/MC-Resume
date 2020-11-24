@@ -1,5 +1,8 @@
 FROM node:latest
-MAINTAINER MaherChaabani
+LABEL version="final"
+LABEL maintaner="Maher Chaabani"
+LABEL release-date="2020-11-24"
+
 WORKDIR /usr/src/app/
 
 RUN npm install -g gatsby-cli 
