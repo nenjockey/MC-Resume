@@ -11,3 +11,7 @@ RUN npm install
 EXPOSE 8000
 
 CMD ["gatsby", "develop", "-H", "0.0.0.0"]
+
+#docker build -t maher-resume .
+#docker history maher-resume
+#docker run -d -p 8000:8000 maher-resume
