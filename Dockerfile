@@ -1,8 +1,6 @@
 FROM node:latest
-
+MAINTAINER MaherChaabani
 WORKDIR /usr/src/app/
-
-
 
 RUN npm install -g gatsby-cli 
 RUN git clone https://github.com/nenjockey/MC-Resume.git .
