@@ -29,21 +29,21 @@ work:
   url: http://comar.tn
   startDate: '2014-05-01'
   endDate: '2020-05-01'
-  summary: Pied Piper is a multi-platform technology based on a proprietary universal
-    compression algorithm that has consistently fielded high Weisman Scores™ that
-    are not merely competitive, but approach the theoretical limit of lossless compression.
+  summary: Ranked among the first companies in the sector and with the best financial base, COMAR owes its place 
+  not only to the richness of its heritage and its direct affiliation to a solid financial group which is none other than the AMEN group, 
+  but also and above all because of its structure and the seriousness of its people.
   highlights:
-  - Build an algorithm for rejection of treatment of input data in Oracle App
+  - Built an algorithm for rejection of treatment of input data in Oracle App
   - Optimized process and workflows 
 volunteer:
 - organization: Red Cross
-  position: Teacher
+  position: Instructor
   url: https://www.icrc.org/
   startDate: '2015-01-01'
   endDate: '2018-01-01'
   summary: Global movement for promoting humanitarian principles and values.
   highlights:
-  - Awarded 'instructor of the Year'
+  - Awarded 'Instructor of the Year'
 education:
 - institution: Institut Supérieur de l'informatique
   area: Ariana
