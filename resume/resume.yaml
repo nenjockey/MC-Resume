@@ -6,8 +6,8 @@ basics:
   phone: "(216) 54-010-727"
   url: http://#
   summary: "Skilled help desk technician with over 5 years of experience providing PC, Mac, and mobile device support for customers in a large enterprise environment. 
-  Works well independently, and in a group setting providing all facets of help desk support such as troubleshooting, installations, and maintenance. 
-  Knowledgeable in help desk operations by responding to service requests via telephone, e-mail, or in person."
+    Works well independently, and in a group setting providing all facets of help desk support such as troubleshooting, installations, and maintenance. 
+    Knowledgeable in help desk operations by responding to service requests via telephone, e-mail, or in person."
   location:
     address: 1 El-razi St
     postalCode: TN 1110
@@ -29,9 +29,9 @@ work:
   url: http://comar.tn
   startDate: '2014-05-01'
   endDate: '2020-05-01'
-  summary: Ranked among the first companies in the sector and with the best financial base, COMAR owes its place 
-  not only to the richness of its heritage and its direct affiliation to a solid financial group which is none other than the AMEN group, 
-  but also and above all because of its structure and the seriousness of its people.
+  summary: "Ranked among the first companies in the sector and with the best financial base, COMAR owes its place 
+    not only to the richness of its heritage and its direct affiliation to a solid financial group which is none other than the AMEN group, 
+    but also and above all because of its structure and the seriousness of its people."
   highlights:
   - Built an algorithm for rejection of treatment of input data in Oracle App
   - Optimized process and workflows 
