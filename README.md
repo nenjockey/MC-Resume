@@ -1,6 +1,7 @@
+# gatsbyResume // MC-Resume
+
 #---------------------------------------------------------------------------------------------#
 
-# gatsbyResume // MC-Resume
 
 This repository shows how you can create a resume using [Gatsby js](https://www.gatsbyjs.org/).
 
