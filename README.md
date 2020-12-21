@@ -1,5 +1,5 @@
 
-# gatsbyResume
+# gatsbyResume // MC-Resume
 
 This repository shows how you can create a resume using [Gatsby js](https://www.gatsbyjs.org/).
 
@@ -17,5 +17,5 @@ $ docker history myfinalresume
 $ docker run -d -p 8000:8000 myfinalresume
 
 
-# MC-Resume
+# ************************
 
